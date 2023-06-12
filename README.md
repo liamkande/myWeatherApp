@@ -1,6 +1,7 @@
 # Weather Forecast App
 
-This is a simple React app that displays the current weather forecast for a specific location. It utilizes the WeatherAPI to fetch weather data and provides a user-friendly interface to search for different locations.
+The Weather Forecast App is a React application that allows users to search real-time weather data for a specific location and provides details such as temperature, humidity, wind speed, weather conditions… The project focuses on manipulating the data using React's useEffect and useReducer hooks.
+
 ## Features
 
 - Fetches and displays the current weather data for a given location
@@ -21,9 +22,10 @@ To get started with the Course Directory Web App, follow these steps:
 1. Clone the repository: `https://github.com/liamkande/myWeatherApp.git`
 2. Navigate to the project directory: `cd myWeatherApp`
 3. Install the dependencies: `yarn install`
-4. Create a file named apiKey in the root of the project and add the following line: export const apiKey = your_api_key;
-5. Start the application: `yarn start`
-6. Open your web browser and visit: `http://localhost:3000`
+4. Obtain an API key from WeatherAPI (https://www.weatherapi.com/)
+5. Create a file named apiKey in the root of the project and add the following line: export const apiKey = your_api_key;
+6. Start the application: `yarn start`
+7. Open your web browser and visit: `http://localhost:3000`
 
 ## Usage
 
