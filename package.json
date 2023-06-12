@@ -40,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Course Directory Web App",
+  "author": "Liam Ansoumane Kande",
+  "homepage": ".",
+  "license": "MIT"
 }
